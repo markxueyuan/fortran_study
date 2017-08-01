@@ -1,0 +1,10 @@
+* Literature programming for fortran
+
+
+#+BEGIN_SRC fortran
+
+        program hello
+        print *, "Hello world"
+        end program hello
+
+#+END_SRC
